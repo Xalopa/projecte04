@@ -44,21 +44,22 @@ Aquest projecte vol posar-te en situació d’assumir, amb autonomia progressiva
 
 # TASQUES I PRODUCTES
 
-| Tasques                                           | Productes                                      |
-|---------------------------------------------------|------------------------------------------------|
-| 1. [Tasca 1](#tasca-1)                             | 1. [Producte 1](#producte-1)                   |
-| 2. [Tasca 2](#tasca-2)                             | 2. [Producte 2](#producte-2)                   |
-| 3. [Tasca 3](#tasca-3)                             | 3. [Producte 3](#producte-3)                   |
-| 4. [Tasca 4](#tasca-4)                             |                                                |
-| 5. [Tasca 5](#tasca-5)                             |                                                |
-| 6. [Tasca 6](#tasca-6)                             |                                                |
-| 7. [Tasca 7](#tasca-7)                             |                                                |
-| 8. [Tasca 8](#tasca-8)                             |                                                |
-| 9. [Tasca 9](#tasca-9)                             |                                                |
-| 10. [Tasca 10](#tasca-10)                          |                                                |
-| 11. [Tasca 11](#tasca-11)                          |                                                |
-| 12. [Tasca 12](#tasca-12)                          |                                                |
-| 13. [Tasca 13](#tasca-13)                          |                                                |
-| 14. [Tasca 14](#tasca-14)                          |                                                |
-| 15. [Tasca 15](#tasca-15)                          |                                                |
+| Tasques                                               | Productes                                          |
+|-------------------------------------------------------|----------------------------------------------------|
+| 📁 [Tasca 1](#tasca-1)                                 | 📦 [Producte 1](#producte-1)                       |
+| 📁 [Tasca 2](#tasca-2)                                 | 📦 [Producte 2](#producte-2)                       |
+| 📁 [Tasca 3](#tasca-3)                                 | 📦 [Producte 3](#producte-3)                       |
+| 📁 [Tasca 4](#tasca-4)                                 |                                                    |
+| 📁 [Tasca 5](#tasca-5)                                 |                                                    |
+| 📁 [Tasca 6](#tasca-6)                                 |                                                    |
+| 📁 [Tasca 7](#tasca-7)                                 |                                                    |
+| 📁 [Tasca 8](#tasca-8)                                 |                                                    |
+| 📁 [Tasca 9](#tasca-9)                                 |                                                    |
+| 📁 [Tasca 10](#tasca-10)                               |                                                    |
+| 📁 [Tasca 11](#tasca-11)                               |                                                    |
+| 📁 [Tasca 12](#tasca-12)                               |                                                    |
+| 📁 [Tasca 13](#tasca-13)                               |                                                    |
+| 📁 [Tasca 14](#tasca-14)                               |                                                    |
+| 📁 [Tasca 15](#tasca-15)                               |                                                    |
+
 
