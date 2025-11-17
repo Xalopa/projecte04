@@ -42,6 +42,8 @@ Durant quatre setmanes, hauràs de donar resposta a encàrrecs reals dins l’ec
 
 Aquest projecte vol posar-te en situació d’assumir, amb autonomia progressiva, rols i responsabilitats similars als que trobaries en una empresa tecnològica de mida petita o mitjana.
 
+# TASQUES I PRODUCTES
+
 | Tasques                                           | Productes                                      |
 |---------------------------------------------------|------------------------------------------------|
 | 1. [Tasca 1](#tasca-1)                             | 1. [Producte 1](#producte-1)                   |
