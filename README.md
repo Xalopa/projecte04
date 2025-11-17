@@ -44,22 +44,24 @@ Aquest projecte vol posar-te en situació d’assumir, amb autonomia progressiva
 
 # TASQUES I PRODUCTES
 
-| Tasques                                               | Productes                                          |
-|-------------------------------------------------------|----------------------------------------------------|
-| 📁 [Tasca 1](#tasca-1)                                 | 📦 [Producte 1](#producte-1)                       |
-| 📁 [Tasca 2](#tasca-2)                                 | 📦 [Producte 2](#producte-2)                       |
-| 📁 [Tasca 3](#tasca-3)                                 | 📦 [Producte 3](#producte-3)                       |
-| 📁 [Tasca 4](#tasca-4)                                 |                                                    |
-| 📁 [Tasca 5](#tasca-5)                                 |                                                    |
-| 📁 [Tasca 6](#tasca-6)                                 |                                                    |
-| 📁 [Tasca 7](#tasca-7)                                 |                                                    |
-| 📁 [Tasca 8](#tasca-8)                                 |                                                    |
-| 📁 [Tasca 9](#tasca-9)                                 |                                                    |
-| 📁 [Tasca 10](#tasca-10)                               |                                                    |
-| 📁 [Tasca 11](#tasca-11)                               |                                                    |
-| 📁 [Tasca 12](#tasca-12)                               |                                                    |
-| 📁 [Tasca 13](#tasca-13)                               |                                                    |
-| 📁 [Tasca 14](#tasca-14)                               |                                                    |
-| 📁 [Tasca 15](#tasca-15)                               |                                                    |
+| Tasques                                                       | Productes                                                   |
+|---------------------------------------------------------------|-------------------------------------------------------------|
+| 📁 [T00](./tasques/T00)                                       | 📦 [P01](./productes/P01)                                   |
+| 📁 [T01](./tasques/T01)                                       | 📦 [P02](./productes/P02)                                   |
+| 📁 [T02](./tasques/T02)                                       | 📦 [P03](./productes/P03)                                   |
+| 📁 [T03](./tasques/T03)                                       |                                                             |
+| 📁 [T04](./tasques/T04)                                       |                                                             |
+| 📁 [T05](./tasques/T05)                                       |                                                             |
+| 📁 [T06](./tasques/T06)                                       |                                                             |
+| 📁 [T07](./tasques/T07)                                       |                                                             |
+| 📁 [T08](./tasques/T08)                                       |                                                             |
+| 📁 [T09](./tasques/T09)                                       |                                                             |
+| 📁 [T10](./tasques/T10)                                       |                                                             |
+| 📁 [T11](./tasques/T11)                                       |                                                             |
+| 📁 [T12](./tasques/T12)                                       |                                                             |
+| 📁 [T13](./tasques/T13)                                       |                                                             |
+| 📁 [T14](./tasques/T14)                                       |                                                             |
+| 📁 [T15](./tasques/T15)                                       |                                                             |
+
 
 
