@@ -126,7 +126,5 @@ Document de planificació de còpies de seguretat elaborat per: **Pol, Xavi, Bla
 
 ---
 
-## ✔️ Estat del document
-Aquest README.md està pensat per ser utilitzat com a documentació del projecte de còpies de seguretat de la *Fase 1*.
 
 
