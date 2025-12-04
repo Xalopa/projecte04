@@ -84,4 +84,7 @@ Verifica amb Wireshark que el trànsit es redirigeix pel túnel SSH:
 
 A les ip's que surt als paquets de ssh, son les del servidor i les del client.
 
+Seguidement, seguirem els pasos del video d'en Carlos: https://www.youtube.com/watch?v=3JbJ_8fO5nM
+
+
 
