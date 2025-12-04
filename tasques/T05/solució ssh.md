@@ -14,6 +14,9 @@
 
 Per instal·lar el servei SSH a Ubuntu Server, executa:
 
+![captura1](img/5.png)
+
+
 sudo apt install ssh
 
 Després, verifica l'adreça IP del servidor amb:
