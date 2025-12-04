@@ -30,19 +30,19 @@ Des del client Windows, obrir PowerShell i connectar al servidor amb:
 
 ssh usuari@192.168.56.106
 
-![captura2](img/1.png)
+![captura3](img/1.png)
 
 La primera vegada, se't demanarà confirmar l'autenticitat del host:
 
 Un cop connectat, veuràs el missatge de benvinguda del sistema Ubuntu:
 
-
-
-Configuració del servidor SSH
+# Configuració del servidor SSH
 
 El fitxer de configuració es troba a:
 
 /etc/ssh/sshd_config
+
+![captura4](img/windows4.png)
 
 Algunes opcions importants:
 
