@@ -52,15 +52,15 @@ RSAAuthentication yes
 PubkeyAuthentication yes
 AuthorizedKeysFile %h/.ssh/authorized_keys
 
-
-
 Per aplicar els canvis:
 
 sudo systemctl restart ssh
 
-Gestió d'usuaris i permisos
+![captura5](img/system.png)
 
-Pots crear un nou usuari amb:
+# Gestió d'usuaris i permisos
+
+Crear un nou usuari amb:
 
 sudo adduser usuari2
 
@@ -74,7 +74,7 @@ Verifica que l'usuari restringit no pugui accedir:
 
 
 
-Creació de túnels SSH i ús de proxy SOCKS
+# Creació de túnels SSH i ús de proxy SOCKS
 
 Pots crear un túnel SSH amb:
 
