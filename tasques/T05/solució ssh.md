@@ -64,6 +64,8 @@ Crear un nou usuari amb:
 
 sudo adduser usuari2
 
+![captura5](img/windows6.png)
+
 
 
 Per restringir l'accés SSH només a certs usuaris, afegeix al sshd_config:
