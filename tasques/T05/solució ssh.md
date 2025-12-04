@@ -74,14 +74,12 @@ ssh -D 9876 usuari@192.168.56.106
 
 ![captura7](img/windows8.png)
 
-
-
-Després, configura el navegador per utilitzar un proxy SOCKS a 127.0.0.1:9876:
-
-
+Després, configura el navegador per utilitzar un proxy SOCKS a 
+127.0.0.1
+9876
 
 Verifica amb Wireshark que el trànsit es redirigeix pel túnel SSH:
 
+![captura8](img/windows9.png)
 
 
-Aquesta guia cobreix des de la instal·lació bàsica fins a l'ús avançat de SSH com a túnel segur. Pots ampliar cada secció segons les teves necessitats o entorn de xarx
