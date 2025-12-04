@@ -1,4 +1,4 @@
-# Index
+# Índex
 
 - Instal·lació del servidor SSH
 
