@@ -64,23 +64,15 @@ Crear un nou usuari amb:
 
 sudo adduser usuari2
 
-![captura5](img/windows6.png)
-
-
-
-Per restringir l'accés SSH només a certs usuaris, afegeix al sshd_config:
-
-AllowUsers usuari
-
-Verifica que l'usuari restringit no pugui accedir:
-
-
+![captura6](img/windows6.png)
 
 # Creació de túnels SSH i ús de proxy SOCKS
 
 Pots crear un túnel SSH amb:
 
 ssh -D 9876 usuari@192.168.56.106
+
+![captura7](img/windows8.png)
 
 
 
