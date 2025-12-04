@@ -14,26 +14,25 @@
 
 Per instal·lar el servei SSH a Ubuntu Server, executa:
 
-![captura1](img/5.png)
-
-
 sudo apt install ssh
+
+![captura1](img/5.png)
 
 Després, verifica l'adreça IP del servidor amb:
 
 ip addr show
 
+![captura2](img/ip.png)
 
+# Verificació de la connexió SSH
 
-Verificació de la connexió SSH
+Des del client Windows, obrir PowerShell i connectar al servidor amb:
 
-Des del client Windows, obre PowerShell i connecta't al servidor amb:
+ssh usuari@192.168.56.106
 
-ssh usuari@192.168.1.38
+![captura2](img/1.png)
 
 La primera vegada, se't demanarà confirmar l'autenticitat del host:
-
-
 
 Un cop connectat, veuràs el missatge de benvinguda del sistema Ubuntu:
 
