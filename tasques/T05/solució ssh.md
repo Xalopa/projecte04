@@ -1,4 +1,4 @@
-## Index
+# Index
 
 - Instal·lació del servidor SSH
 
@@ -10,7 +10,7 @@
 
 - Creació de túnels SSH i ús de proxy SOCKS
 
-# Instal·lació del servidor SSH
+## Instal·lació del servidor SSH
 
 Per instal·lar el servei SSH a Ubuntu Server, executa:
 
