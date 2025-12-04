@@ -42,7 +42,7 @@ El fitxer de configuració es troba a:
 
 /etc/ssh/sshd_config
 
-![captura4](img/windows4.png)
+![captura4](img/windows 4.png)
 
 Algunes opcions importants:
 
