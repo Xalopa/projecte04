@@ -168,3 +168,30 @@ sudo apt install nfs-common -y
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+Al servidor, modificarem l'arxiu /etc/exports per permetre exportar el nostre directori
+
+```bash
+sudo nano /etc/exports
+```
+![Capt19](img/17.png)
+
+![Capt20](img/18.png)
+
+Si anem a la màquina del client, podrem verificar que esta exportant al servidor
+
+```bash
+sudo showmount -e 10.0.2.10
+```
+
+![Capt21](img/19.png)
+
+Ara si, podem muntar el directori del servidor a un dels directoris del client
+
+```bash
+sudo mount -t nfs 10.0.2.6:/srv/nfs/admin_tools /mnt/admin_tools/
+```
+
+![Capt22](img/20.png)
+
+
+
