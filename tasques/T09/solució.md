@@ -6,4 +6,4 @@ S'haurà de actualitzar el sistema operatiu a les dues màquines.
 ```bash
 sudo apt update -y && sudo apt upgrade -y
 ```
-
+![Capt1](img/2.png)
