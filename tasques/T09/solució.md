@@ -69,3 +69,24 @@ sudo /srv/nfs/admin_tools
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+El grup Devs tindra control total sobre els seus projectes El grup Admins tindra control total sobre les seves eines l'usuari propietari de tots dos casos serà root.
+
+```bash
+sudo chown root:devs /srv/nfs/dev_projectes/
+```
+```bash
+sudo chown root:admins /srv/nfs/admin_tools/
+```
+```bash
+sudo chmod 770 /srv/nfs/dev_projectes/
+```
+```bash
+sudo chmod 770 /srv/nfs/admin_tools/
+```
+Ara, aquesta comanda per comprobar els permisos
+
+```bash
+ls -la /srv/nfs/
+```
+
+![Capt9](img/8.png)
