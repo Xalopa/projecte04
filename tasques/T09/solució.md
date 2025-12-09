@@ -16,8 +16,24 @@ Seguidament, farem un ping a les dues màquines per saber si estan conectades.
 ```bash
 ping IP_CLIENT
 ```
+
 ![Capt2](img/1.1.png)
 
 ![Capt3](img/1.png)
 
+```bash
+ping IP_SERVIDOR
+```
+
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Ara, dins del servidor, crearem dos grups devs i admins
+
+```bash
+sudo groupadd devs
+```
+```bash
+sudo groupadd admins
+```
+
+
