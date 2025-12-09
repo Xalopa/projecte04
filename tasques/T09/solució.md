@@ -143,15 +143,17 @@ sudo adduser --uid 1003 dev01
 
 ![Capt14](img/12.png)
 
+![Capt15](img/13.png)
+
 ```bash
 sudo usermod -a -G admins admin01
 sudo usermod -a -G devs dev01
 ```
 
-![Capt15](img/13.png)
+![Capt16](img/14.png)
 
 I per verificar que esta tot correctament:
 
-![Capt16](img/14.png)
+![Capt17](img/15.png)
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
