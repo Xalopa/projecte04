@@ -101,4 +101,20 @@ sudo apt install nfs-kernel-server
 
 ![Capt10](img/0.png)
 
+I l'haurem d'habilita el serveri NFS
+
+```bash
+sudo systemctl enable nfs-kernel-server
+```
+
+```bash
+sudo systemctl start nfs-kernel-server
+```
+
+```bash
+sudo systemctl system nfs-kernel-server
+```
+
+![Capt11](img/9.png)
+
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
