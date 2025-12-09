@@ -48,10 +48,20 @@ sudo adduser dev01
 ```bash
 sudo adduser admin01
 ```
-![Capt4](img/4.png)
+![Capt5](img/4.png)
 
-![Capt4](img/5.png)
+![Capt6](img/5.png)
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+Crearem els seguents directoris:
+
+```bash
+sudo /srv/nfs/dev_projectes
+```
+```bash
+sudo /srv/nfs/admin_tools
+```
+
+![Capt7](img/6.png)
 
