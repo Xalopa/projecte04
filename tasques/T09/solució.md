@@ -118,3 +118,40 @@ sudo systemctl system nfs-kernel-server
 ![Capt11](img/9.png)
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Ara al Client haurem de configurar amb les mateixes gid i uid els usuaris i grups.
+Primer de tot, en el servidor, haurem d'executar la seguent comanda i ens haurem d'apuntar el que ens diu:
+
+```bash
+id admin01 && id dev01
+```
+![Capt12](img/10.png)
+
+Un cop haber apuntat tot, anirem a la màquina del client, i executarem les seguents comandes:
+
+```bash
+sudo groupadd -g 1002 admins
+sudo groupadd -g 1001 devs
+```
+
+![Capt13](img/11.png)
+
+```bash
+sudo adduser --uid 1004 admin01
+sudo adduser --uid 1003 dev01
+```
+
+![Capt14](img/12.png)
+
+```bash
+sudo usermod -a -G admins admin01
+sudo usermod -a -G devs dev01
+```
+
+![Capt15](img/13.png)
+
+I per verificar que esta tot correctament:
+
+![Capt16](img/14.png)
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________
