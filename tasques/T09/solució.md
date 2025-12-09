@@ -83,10 +83,20 @@ sudo chmod 770 /srv/nfs/dev_projectes/
 ```bash
 sudo chmod 770 /srv/nfs/admin_tools/
 ```
-Ara, aquesta comanda per comprobar els permisos
+Ara, amb aquesta comanda comprobarem els permisos:
 
 ```bash
 ls -la /srv/nfs/
 ```
 
 ![Capt9](img/8.png)
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Tot seguit, instal·larem el servei NFS:
+
+```bash
+sudo apt install nfs-kernel-server
+```
+
+![Capt10](img/8.png)
