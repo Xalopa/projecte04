@@ -199,6 +199,9 @@ Comprobem com els arxiu estan disponibles en el directori on hem muntat els arxi
 
 Ara configurem el client per a que es monti automàticament la nostra carpeta al iniciar sessió. Això ho farem editant l'arxiu /etc/fstab
 
+```bash
+sudo nano /etc/fstab```
+```
 ![Capt24](img/22.png)
 
 
