@@ -193,5 +193,13 @@ sudo mount -t nfs 10.0.2.6:/srv/nfs/admin_tools /mnt/admin_tools/
 
 ![Capt22](img/20.png)
 
+Comprobem com els arxiu estan disponibles en el directori on hem muntat els arxius, podem fer-ho amb comandes (ls) o des del gui.
+
+![Capt23](img/21.png)
+
+Ara configurem el client per a que es monti automàticament la nostra carpeta al iniciar sessió. Això ho farem editant l'arxiu /etc/fstab
+
+![Capt24](img/22.png)
+
 
 
