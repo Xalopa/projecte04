@@ -200,9 +200,25 @@ Comprobem com els arxiu estan disponibles en el directori on hem muntat els arxi
 Ara configurem el client per a que es monti automàticament la nostra carpeta al iniciar sessió. Això ho farem editant l'arxiu /etc/fstab
 
 ```bash
-sudo nano /etc/fstab```
+sudo nano /etc/fstab
 ```
+
 ![Capt24](img/22.png)
+
+Ara com a pas final caldrà fer el mateix per a el directori de devs (muntar-lo i configurar)
+Des del servidor afegim una nova línea a l'arxiu /etc/exports per configurar el directori.
+Afegim:
+
+```bash
+/srv/nfs/dev_projects/ 10.0.2.9(rw,sync,no_subtree_check,no_root_squash)
+```
+
+![Capt25](img/23.png)
+
+Seguidament, hauriem de fer el maeix procés per l'altre group, ara podriem veure com l'arxiu s'ha creat correctament:
+
+![Capt26](img/24.png)
+
 
 
 
