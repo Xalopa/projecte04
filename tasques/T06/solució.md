@@ -9,7 +9,7 @@ Farem comprovacions inicials amb ping entre elles.
 
 Primer de tot, haurem de tenir una màquina virtual amb Windows i activar l’escriptori remot en aquesta. Des de configuració → Sistema → Escritorio remoto
 
-![capt3](img/3png)
+![capt3](img/3.png)
 
 Ara, afagerim un usuari d'escriptori remot
 
