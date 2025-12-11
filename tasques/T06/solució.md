@@ -13,3 +13,16 @@ Primer de tot, haurem de tenir una màquina virtual amb Windows i activar l’es
 
 Ara, afagerim un usuari d'escriptori remot
 
+![capt4](img/4.png)
+
+![capt5](img/14.png)
+
+![capt6](img/15.png)
+
+![capt7](img/16.png)
+
+![capt8](img/17.png)
+
+![capt9](img/18.png)
+
+![capt10](img/19.png)
