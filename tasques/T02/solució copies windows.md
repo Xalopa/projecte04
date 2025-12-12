@@ -18,4 +18,8 @@ Seguidament, un cop descargat, haurem d'aacedir, quan accedim per primer cop ens
 
 ![capt5](img/5.png)
 
+Ara crearem un nou backup a l'opció que surt "Add +"
+
 ![capt6](img/blai.png)
+
+![capt7](img/blai.png)
