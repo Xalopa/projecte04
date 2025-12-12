@@ -22,4 +22,7 @@ Ara crearem un nou backup a l'opció que surt "Add +"
 
 ![capt6](img/blai.png)
 
-![capt7](img/blai.png)
+Seguirem els passos demanats i introduirem nom, descripció, xifratge, contrasenya…
+
+![capt7](img/6.png)
+
