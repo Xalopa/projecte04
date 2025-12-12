@@ -26,3 +26,28 @@ Seguirem els passos demanats i introduirem nom, descripció, xifratge, contrasen
 
 ![capt7](img/6.png)
 
+Tot seguit, seleccionem la destinació del nostre sistema "File System"
+
+![capt8](img/aa.png)
+
+A continuació, haurem d’escollir la ubicació del nostre disc on es desaran les còpies. Si el disc no hi apareix, serà necessari inicialitzar-lo, tal com vam aprendre al primer curs.
+
+![capt9](img/7.png)
+
+Caldrà triar quines dades volem o des d’on s’han d’extreure.
+
+![capt10](img/8.png)
+
+Farem click a "->continue" i escollirem quan s’executa la còpia.
+
+![capt11](img/9.png)
+
+Tot seguit, haurem d’afegir l’opció passphrase per introduir una contrasenya.
+A més, també caldrà incorporar l’opció snapshot-policy.
+
+![capt8](img/a.png)
+
+![capt12](img/10.png)
+
+
+
