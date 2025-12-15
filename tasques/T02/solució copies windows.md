@@ -64,11 +64,28 @@ Crearem un nou backup, però aquesta vegada seleccionarem Google Drive com a des
 
 ![capt17](img/14.png)
 
-Quan avancem, haurem de vincular Duplicati amb Google Drive. Per fer-ho, farem clic a l’enllaç AuthID i vincula amb el compte de google drive.
+Quan avancem, haurem de vincular Duplicati amb Google Drive. Per fer-ho, farem clic a l’enllaç AuthID i vincula amb el compte de google drive i indicar la ruta de la carpeta on volem ques es guardin les copies de seguretat.
 
 ![capt19](img/16.png)
 
 ![capt18](img/15.png)
+
+Tot seguit, haurem de seleccionar les mateixes dades d'origen que ja haviem sellacionat al altre backup.
+
+![capt20](img/17.png)
+
+Haurem de definir el horari on les copies s'executaran a les 18:00h.
+
+![capt21](img/18.png)
+
+Com hem fet al altre backup, haurem d'afegir l'opcio de passphrase i de snapshot-policy.
+
+![capt22](img/10.png)
+
+![capt23](img/a.png)
+
+
+
 
 
 
