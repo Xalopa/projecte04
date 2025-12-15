@@ -84,6 +84,13 @@ Com hem fet al altre backup, haurem d'afegir l'opcio de passphrase i de snapshot
 
 ![capt23](img/a.png)
 
+I ara iniciarem el backup de Drive per poder realitzar un test.
+
+![capt24](img/19.png)
+
+![capt25](img/20.png)
+
+
 
 
 
