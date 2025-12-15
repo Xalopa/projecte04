@@ -64,12 +64,11 @@ Crearem un nou backup, però aquesta vegada seleccionarem Google Drive com a des
 
 ![capt17](img/14.png)
 
-![capt18](img/15.png)
-
 Quan avancem, haurem de vincular Duplicati amb Google Drive. Per fer-ho, farem clic a l’enllaç AuthID i vincula amb el compte de google drive.
 
 ![capt19](img/16.png)
 
+![capt18](img/15.png)
 
 
 
