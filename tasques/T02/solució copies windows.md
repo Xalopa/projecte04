@@ -88,7 +88,26 @@ I ara iniciarem el backup de Drive per poder realitzar un test.
 
 ![capt24](img/19.png)
 
+En finalitzar, podrem verificar el correcte funcionament revisant la carpeta de Google Drive.
+
 ![capt25](img/20.png)
+
+Ara realitzarem algunes proves de còpia i restauració. Crearem un arxiu dins la ruta de l’usuari.
+
+![capt25](img/21.png)
+
+A continuació, executarem una còpia de seguretat mitjançant Duplicati; després suprimirem el fitxer creat i en comprovarem la recuperació utilitzant la mateixa aplicació.
+
+![capt25](img/22.png)
+
+![capt26](img/23.png)
+
+
+
+
+
+
+
 
 
 
