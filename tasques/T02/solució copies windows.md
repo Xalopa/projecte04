@@ -102,6 +102,22 @@ A continuació, executarem una còpia de seguretat mitjançant Duplicati; despr�
 
 ![capt26](img/23.png)
 
+![capt27](img/24.png)
+
+Ara, tot ha funcionat correctament, podem veure com el document ha tornat al seu lloc original. També podem comprovar de la mateixa manera el funcionament de la còpia de seguretat amb Google Drive.
+Seguidament, haurem de fer una còpia de seguretat a Google Drive, després eliminem el fitxer manualment i finalment el restaurem.
+
+![capt28](img/25.png)
+
+![capt29](img/26.png)
+
+Per saber on estar el arixiu, anem a "Documents".
+
+![capt30](img/27.png)
+
+Ara. podriem dir que tot ha funcionat perque el document ha tornat al seu lloc.
+
+
 
 
 
