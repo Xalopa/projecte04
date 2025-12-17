@@ -2,4 +2,6 @@
 
 Com en el cas de la VM de Windows, haurem de tenir dos discs durs: un per defecte i un segon on emmagatzemarem les còpies.
 
+![capt1](img2/1.png)
+
 
