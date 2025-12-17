@@ -6,6 +6,6 @@ Com en el cas de la VM de Windows, haurem de tenir dos discs durs: un per defect
 
 Quan entrem a la màquina, verifiquem que aquest disc sigui detectat.
 
-![capt1](img2/1.png)
+![capt1](img2/2.png)
 
 
