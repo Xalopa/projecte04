@@ -63,6 +63,19 @@ Un cop finalitzat el procés, es pot comprovar el contingut que s’ha generat d
 
 ![capt15](img2/16.png)
 
+A continuació eliminarem els fitxers de prova creats prèviament per comprovar si es poden recuperar correctament.
+(A la captura surt que el fitxer "2" no s'havia fet bé, però, era perque no ho havia escrit bé, per això, torno ha fer la comanda i surten que els altres ya estan borrats).
+
+![capt16](img2/17.png)
+
+![capt17](img2/18.png)
+
+Tot seguit recuperarem els fitxers utilitzant duplicity.
+
+![capt18](img2/19.png)
+
+
+
 
 
 
