@@ -4,8 +4,7 @@
 
 | Recurs | Enllaç / Referència | Estat |
 | :--- | :--- | :--- |
-| **🚀 El Meu Tauler Kanban (Planner)** | [🔗 Accedir al Microsoft Planner](https://planner.cloud.microsoft/webui/plan/rNRwOICuPku3UZEQmrgSM5YAE6mO/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317
-) | 🟢 Actiu i Actualitzat |
+| **🚀 El Meu Tauler Kanban (Planner)** | [🔗 Accedir al Microsoft Planner](https://planner.cloud.microsoft/webui/plan/rNRwOICuPku3UZEQmrgSM5YAE6mO/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317) | 🟢 Actiu i Actualitzat |
 | **📋 Product Backlog Original** | [🔗 Enllaç al Backlog Oficial](#) | Revisat |
 
 ---
